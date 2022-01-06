@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto Mono', monospace;
+    margin: o;
 }
 h1{
     font-size: 50px;
@@ -64,9 +65,6 @@ border-radius: 8px;
     box-shadow: 4px 4px 10px gray;
     border-radius: 8px;
 }
-.section3-type{
-    display: flex;
-   width: 80%;
-   margin: 0 auto;
-   margin-top: 80px;
+.top-bannar{
+    background-image: url(images/shapes/shape1.png);
 }
