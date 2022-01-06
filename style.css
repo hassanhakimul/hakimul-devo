@@ -10,6 +10,12 @@ h1{
 h2{
     font-size: 40px;
 }
+h3{
+    font-size: 40px;
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 50px;
+}
 span{
 color: rgb(108, 218, 108);
 }
@@ -67,4 +73,12 @@ border-radius: 8px;
 }
 .top-bannar{
     background-image: url(images/shapes/shape1.png);
+}
+.last-div{
+    background-color: black;
+    height: 160px;
+}
+footer{
+    color: blanchedalmond;
+    text-align: center;
 }
