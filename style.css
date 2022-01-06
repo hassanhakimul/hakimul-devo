@@ -16,6 +16,11 @@ h3{
     text-align: center;
     margin-top: 50px;
 }
+h4{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(87, 37, 134);
+}
 span{
 color: rgb(108, 218, 108);
 }
