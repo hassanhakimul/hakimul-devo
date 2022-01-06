@@ -64,3 +64,9 @@ border-radius: 8px;
     box-shadow: 4px 4px 10px gray;
     border-radius: 8px;
 }
+#section3-type{
+    display: flex;
+   width: 80%;
+   margin: 0 auto;
+   margin-top: 80px;
+}
